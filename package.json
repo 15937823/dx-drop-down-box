@@ -1,0 +1,28 @@
+{
+  "name": "Multiple Selection - DevExtreme Drop Down Box",
+  "main": "src/app/app.component.ts",
+  "description": "If the UI component embedded into the DropDownBox allows multiple selection, synchronize the DropDownBox value with the selected items. Synchronization instructions are the same for every selection mode.\nIn this demo, the DataGrid's selection.mode and TreeView's selectionMode properties are used to enable multiple selection.\n",
+  "dependencies": {
+    "zone.js": "0.10.2",
+    "tslib": "2.1.0",
+    "rxjs": "6.4.0",
+    "rrule": "2.6.6",
+    "preact": "10.5.11",
+    "luxon": "1.25.0",
+    "jszip": "3.5.0",
+    "es6-object-assign": "1.1.0",
+    "devextreme-quill": "0.9.8",
+    "devextreme-angular": "20.2.5",
+    "devextreme": "20.2.5",
+    "devexpress-gantt": "2.0.18",
+    "devexpress-diagram": "2.0.11",
+    "core-js": "2.4.1",
+    "@angular/router": "8.0.0",
+    "@angular/platform-browser-dynamic": "8.0.0",
+    "@angular/platform-browser": "8.0.0",
+    "@angular/forms": "8.0.0",
+    "@angular/core": "8.0.0",
+    "@angular/compiler": "8.0.0",
+    "@angular/common": "8.0.0"
+  }
+}
